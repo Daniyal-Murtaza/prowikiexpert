@@ -693,7 +693,7 @@ ul.c-logo>li:last-child {
 .get-quote-two .info ul li .icon img {}
 
 .clr {
-	color: #ffaa17
+	color: yellow
 }
 
 .clr1 {
@@ -701,7 +701,7 @@ ul.c-logo>li:last-child {
 }
 
 .clr2 {
-	color: #fff
+	color: yellow
 }
 
 ul.trust-lst {
@@ -2012,7 +2012,7 @@ ul.sar-lst button.slick-arrow:after {
 	position: absolute;
 	font-family: fontAwesome;
 	font-size: 23px;
-	color: #ffaa17;
+	color: #032459;
 	width: 50px;
 	height: 50px
 }
@@ -2142,7 +2142,7 @@ ul.sar-lst .slick-dots li button {
 }
 
 ul.sar-lst .slick-dots li.slick-active button {
-	background: #ffaa17
+	background: yellow;
 }
 
 ul.sar-lst .slick-list {
