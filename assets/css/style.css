@@ -10,9 +10,9 @@
 :root {
     --thm-font: "Teko", sans-serif;
     --thm-b-font: "Rubik", sans-serif;
-    --thm-base: #ffaa17;
-    --thm-base-rgb: 255, 170, 23;
-    --thm-black: #222429;
+    --thm-base: #fff;
+    --thm-base-rgb: #032459;
+    --thm-black: #032459;
     --thm-text: #686a6f
 }
 
@@ -31,7 +31,7 @@ body {
 a {
     text-decoration: none;
     cursor: pointer;
-    color: var(--thm-base)
+    color: yellow
 }
 
 .theme_color {
@@ -210,7 +210,7 @@ figure {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .05em;
-    background: #ffaa17;
+    background: #fff;
     color: var(--thm-black);
     border-radius: 5px;
     overflow: hidden;
@@ -220,7 +220,7 @@ figure {
     -webkit-transition: all .3s ease;
     -ms-transition: all .3s ease;
     -o-transition: all .3s ease;
-    border: 1px solid #ffaa17
+    border: 1px solid #000
 }
 
 .btn-style-one .btn-title {
@@ -236,7 +236,7 @@ figure {
 
 .btn-style-one:hover {
     background: var(--thm-base);
-    color: #000
+    color: #fff
 }
 
 .btn-style-one .btn-curve {
@@ -245,7 +245,7 @@ figure {
     top: 0;
     width: 26px;
     height: 100%;
-    background: #fff;
+    background: #032459;
     opacity: .2;
     z-index: 0;
     transform: skewX(-22deg);
@@ -263,13 +263,15 @@ figure {
     transform: skewX(0deg)
 }
 
+
+/* button 2 */
 .btn-style-two {
     position: relative;
     display: inline-block;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .05em;
-    background: #222429;
+    background: #032459;
     color: #fff;
     border-radius: 5px;
     overflow: hidden;
@@ -295,7 +297,8 @@ figure {
 }
 
 .btn-style-two:hover {
-    color: var(--thm-black)
+    color: var(--thm-black);
+    background: white;
 }
 
 .btn-style-two .btn-curve {
@@ -304,7 +307,7 @@ figure {
     top: 0;
     width: 26px;
     height: 100%;
-    background: #fff;
+    background: white;
     opacity: .2;
     z-index: 0;
     transform: skewX(-22deg);
@@ -428,14 +431,14 @@ img {
     text-align: center;
     z-index: 100;
     cursor: pointer;
-    background: var(--thm-base);
+    background: #fff;
     display: none;
     transition: all 300ms ease
 }
 
 .scroll-to-top:hover {
-    background: var(--thm-black);
-    color: #fff
+    background: yellow;
+    color: #032459
 }
 
 .main-header {
@@ -5315,7 +5318,7 @@ img.lazy-image.loaded {
 
 .main-footer {
     position: relative;
-    color: #999b9f;
+    color: #fff;
     background: var(--thm-black) url(../images/background/footer-bg.png) center top no-repeat
 }
 
@@ -5469,7 +5472,7 @@ img.lazy-image.loaded {
     top: 0;
     line-height: 30px;
     font-size: 16px;
-    color: var(--thm-base)
+    color: yellow
 }
 
 .main-footer .info-widget ul li:last-child {
@@ -5478,7 +5481,7 @@ img.lazy-image.loaded {
 
 .main-footer .info-widget ul li a {
     position: relative;
-    color: #999b9f;
+    color: #fff;
     line-height: 28px;
     transition: all .3s ease;
     -moz-transition: all .3s ease;
@@ -5488,10 +5491,10 @@ img.lazy-image.loaded {
 }
 
 .main-footer .info-widget ul li a:hover {
-    color: #fff;
-    text-decoration: underline;
-    -webkit-text-decoration-color: var(--thm-base);
-    text-decoration-color: var(--thm-base)
+    color: yellow;
+    /* text-decoration: underline; */
+    /* -webkit-text-decoration-color: var(--thm-base); */
+    /* text-decoration-color: yellow */
 }
 
 .main-footer .newsletter-widget .text {
@@ -5575,7 +5578,7 @@ img.lazy-image.loaded {
     display: block;
     padding: 35px 0;
     line-height: 30px;
-    color: #999b9f;
+    color: #fff;
     border-top: 1px solid rgba(255, 255, 255, .1)
 }
 
@@ -14125,7 +14128,7 @@ img.lazy-image.loaded {
     top: 0;
     line-height: 30px;
     font-size: 16px;
-    color: var(--thm-base);
+    color: yellow;
     margin: 0 16px 0 0;
     float: left
 }

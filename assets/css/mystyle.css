@@ -2449,7 +2449,7 @@ ul.ft-lnk {}
 
 ul.ft-lnk>li>a {
 	font-size: 15px;
-	color: #999b9f
+	color: #fff
 }
 
 ul.ft-lnk>li:last-child {
@@ -2457,7 +2457,7 @@ ul.ft-lnk>li:last-child {
 }
 
 ul.ft-lnk>li>a:hover {
-	color: #ffaa17;
+	color: yellow;
 	transition: all .4s ease-In-out
 }
 
