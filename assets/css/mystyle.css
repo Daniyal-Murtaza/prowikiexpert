@@ -22,7 +22,7 @@
 ::-webkit-scrollbar-thumb:vertical {
 	border-radius: 0;
 	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
-	background-image: linear-gradient(#ffaa17, #ffaa17)
+	background-image: linear-gradient(yellow, yellow)
 }
 
 *:hover,
@@ -329,7 +329,7 @@ a:hover {
 }
 
 .btn-a2 {
-	background-color: #ffaa17;
+	background-color: yellow;
 	padding: 3px 5px 1px;
 	border-radius: 4px
 }
@@ -541,13 +541,13 @@ ul.cunt-lst {}
 ul.cunt-lst>li {
 	display: inline-block;
 	margin-right: 20px;
-	color:#ffaa17;
+	color:yellow;
 	padding-top: 5%;
 }
 
 ul.cunt-lst>li>span {
 	font-size: 40px;
-	color: #ffaa17;
+	color: yellow;
 	font-family: var(--thm-font);
 	margin-bottom: 12px;
 	display: block
@@ -588,7 +588,7 @@ ul.cunt-lst>li:last-child {
 
 .bs-example .panel.panel-default {
 	padding: 10px;
-	border: 1px solid #ffaa17;
+	border: 1px solid yellow;
 	margin-bottom: 20px
 }
 
@@ -645,7 +645,7 @@ ul.cunt-lst>li:last-child {
 }
 
 .c-bx {
-	background: #ffaa17;
+	background: yellow;
 	height: 185px;
 	display: flex;
 	align-items: center;
@@ -711,7 +711,7 @@ ul.trust-lst {
 
 ul.trust-lst>li {
 	display: inline-block;
-	border-right: 1px solid #ffaa17;
+	border-right: 1px solid yellow;
 	padding: 0 22px
 }
 
@@ -834,7 +834,7 @@ ul.betlst-t>li:nth-child(2) {
 }
 
 .bet-ctn h4 {
-	color: #ffaa17;
+	color: yellow;
 	font-size: 26px;
 	margin: 0
 }
@@ -877,7 +877,7 @@ ul.betlst-t>li:nth-child(2) {
 	display: flex;
 	align-items: center;
 	display: none;
-	box-shadow: 0 2px 18px 0 #ffaa17;
+	box-shadow: 0 2px 18px 0 yellow;
 	background: #fff;
 	overflow: hidden
 }
@@ -886,7 +886,7 @@ ul.betlst-t>li:nth-child(2) {
 	position: absolute;
 	right: -4px;
 	top: 0;
-	background: #ffaa17;
+	background: yellow;
 	color: #fff;
 	width: 35px;
 	height: 35px;
@@ -1029,7 +1029,7 @@ ul.betlst-t>li:nth-child(2) {
 .pop-btn .btn-form {
 	padding: 10px 50px;
 	font-size: 23px;
-	background: #ffaa17;
+	background: yellow;
 	border-radius: 6px
 }
 
@@ -1052,7 +1052,7 @@ ul.betlst-t>li:nth-child(2) {
 	display: flex;
 	align-items: center;
 	display: none;
-	box-shadow: 0 2px 18px 0 #ffaa17;
+	box-shadow: 0 2px 18px 0 yellow;
 	background: #fff;
 	overflow: hidden
 }
@@ -1061,7 +1061,7 @@ ul.betlst-t>li:nth-child(2) {
 	position: absolute;
 	right: -4px;
 	top: 0;
-	background: #ffaa17;
+	background: yellow;
 	color: #fff;
 	width: 35px;
 	height: 35px;
@@ -1115,7 +1115,7 @@ ul.betlst-t>li:nth-child(2) {
 	display: flex;
 	align-items: center;
 	display: none;
-	box-shadow: 0 2px 18px 0 #ffaa17;
+	box-shadow: 0 2px 18px 0 yellow;
 	background: #fff;
 	overflow: hidden
 }
@@ -1124,7 +1124,7 @@ ul.betlst-t>li:nth-child(2) {
 	position: absolute;
 	right: -4px;
 	top: 0;
-	background: #ffaa17;
+	background: yellow;
 	color: #fff;
 	width: 35px;
 	height: 35px;
@@ -1235,7 +1235,7 @@ img.wki {
 }
 
 .get-f h4 {
-	color: #ffaa17;
+	color: yellow;
 	text-transform: uppercase;
 	font-size: 40px;
 	margin: 0;
@@ -1445,7 +1445,7 @@ section.call-to-section p {
 	line-height: 35px;
 	margin-bottom: 5px;
 	text-transform: capitalize;
-	color: #ffaa17;
+	color: yellow;
 	letter-spacing: 1px
 }
 
@@ -1770,7 +1770,7 @@ section.about-section-three.pd {
 	display: none;
 	margin-right: 18px;
 	background: #000;
-	border: 2px solid #ffaa17;
+	border: 2px solid yellow;
 	color: #fff;
 	font-size: 17px;
 	padding: 5px 10px;
@@ -1818,7 +1818,7 @@ ul.pay-lst>li {
 	padding: 20px 12px 10px;
 	border-radius: 30px 30px 30px 30px;
 	position: relative;
-	border: 7px solid #ffaa17
+	border: 7px solid yellow
 }
 
 .l-field {
@@ -1837,15 +1837,15 @@ ul.pay-lst>li {
 
 .cont-bx h1>span {
 	font-size: 52px;
-	color: #ffaa17;
+	color: yellow;
 	-webkit-text-fill-color: #222429;
 	-webkit-text-stroke-width: 2px;
-	-webkit-text-stroke-color: #ffaa17;
+	-webkit-text-stroke-color: yellow;
 	font-weight: 600
 }
 
 .cont-bx h3 {
-	color: #fba91e;
+	color: yellow;
 	font-size: 40px;
 	margin-bottom: 0;
 	line-height: 30px
@@ -2060,7 +2060,7 @@ ul.c-bst .slick-dots li button {
 	width: 12px;
 	border-radius: 50%;
 	padding: 0;
-	background: #ffaa17;
+	background: yellow;
 	border: none;
 	cursor: pointer;
 	font-size: 0;
@@ -2074,7 +2074,7 @@ ul.c-bst .slick-dots li button {
 
 ul.c-bst .slick-dots li.slick-active button {
 	background: 0 0;
-	border: 2px solid #ffaa17
+	border: 2px solid yellow
 }
 
 .info .link-box {}
@@ -2203,7 +2203,7 @@ ul.pack-list>li:nth-child(2n) {
 .pck-bx.pck-clr ul.pack-lst>li>p:before {}
 
 .pck-bx.pck-clr ul.rs>li h5 {
-	color: #ffaa17;
+	color: yellow;
 	transition: all .5s ease
 }
 
@@ -2228,7 +2228,7 @@ ul.pack-list>li:nth-child(2n) {
 }
 
 .pck-bx.pck-clr ul.pck-but>li>a {
-	border: 2px solid #ffaa17;
+	border: 2px solid yellow;
 	color: #222429;
 	background: 0 0;
 	transition: all .5s ease
@@ -2239,7 +2239,7 @@ ul.pack-list>li:nth-child(2n) {
 .pck-bx.pck-clr ul.pack-lst::-webkit-scrollbar-thumb:vertical {
 	border-radius: 0;
 	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
-	background-image: linear-gradient(#ffaa17, #ffaa17);
+	background-image: linear-gradient(yellow, yellow);
 	transition: all .5s ease
 }
 
@@ -2313,7 +2313,7 @@ ul.rs>li h4>span {
 ul.rs>li h5 {
 	margin-bottom: 0;
 	font-size: 70px;
-	color: #ffaa17;
+	color: yellow;
 	transition: all .5s ease;
 	line-height: 0
 }
@@ -2353,7 +2353,7 @@ ul.pack-lst::-webkit-scrollbar-track-piece {
 ul.pack-lst::-webkit-scrollbar-thumb:vertical {
 	border-radius: 0;
 	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
-	background-image: linear-gradient(#ffaa17, #ffaa17);
+	background-image: linear-gradient(yellow, yellow);
 	transition: all .5s ease
 }
 
@@ -2407,7 +2407,7 @@ ul.pck-but>li:last-child {
 }
 
 ul.pck-but>li>a {
-	border: 2px solid #ffaa17;
+	border: 2px solid yellow;
 	color: #222429;
 	background: 0 0
 }
@@ -3117,7 +3117,7 @@ ul.ft-lnk>li>a:hover {
 		padding: 13px 8px;
 		border-radius: 0;
 		position: relative;
-		border: 3px solid #ffaa17;
+		border: 3px solid yellow;
 		margin-top: 18%
 	}
 	.cont-bx h3 {

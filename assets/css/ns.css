@@ -1478,7 +1478,7 @@ h1, h2, h3, h4, h5, h6 {
 .inner p{
 
     line-height: 2;
-    color: #000;
+    color: #fff;
 
 }
 .skill-area{
@@ -1506,7 +1506,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .grb-skill .progress-bar {
-  background-color: #ffa200;
+  background-color: yellow;
   border-radius: 10px;
 }
 .sbxz h2{
