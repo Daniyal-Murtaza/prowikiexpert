@@ -1814,7 +1814,7 @@ ul.pay-lst>li {
 }
 
 .content-wrp {
-	background: rgb(34 36 41/70%);
+	/* background: #00; */
 	padding: 20px 12px 10px;
 	border-radius: 30px 30px 30px 30px;
 	position: relative;
